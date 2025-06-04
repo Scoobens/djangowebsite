@@ -1,1 +1,1 @@
-# Django web application
+# Django web application edited
